@@ -4,4 +4,4 @@
 /.project
 /.springBeans
 /src/main/webapp/WEB-INF/views/gitignoreTest.jsp
-
+/bin
